@@ -9,7 +9,7 @@ This project completes a research design by analyzing collected data to draw con
 ## Project Goals
 - Perform exploratory data analysis (EDA) to uncover patterns in sample population.
 - Conduct statistical testing to detect significant differences in willingness to help and situtational interdependence based on an empathy manipulation with a moderator.
-- Present findings in a clear manner through a visual summary and research paper.
+- Present findings in a clear manner through a visual summary and research paper. [Visual Summary](https://github.com/shawnalarsen/Visualization-Research/blob/main/Carol's%20Presentation.pdf)
 
 ## Data & Methods
 - **Data Source**: Qualtrics data (privately collected from university students)
