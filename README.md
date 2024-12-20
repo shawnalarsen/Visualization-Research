@@ -13,7 +13,7 @@ This project completes a research design by analyzing collected data to draw con
 
 ## Data & Methods
 - **Data Source**: Qualtrics data (privately collected from university students)
-- **Techniques**: Analysis ov Variance (ANOVA).
+- **Techniques**: Analysis of Variance (ANOVA).
 
 
 ## Technologies Used
